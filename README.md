@@ -1,7 +1,9 @@
 # 🏏ICC-World-Cup-2023-Performance-Dashboard
 📌 Project Overview
 This project showcases a Power BI dashboard analyzing team and player performance during the ICC World Cup 2023. It allows users to interactively explore batting and bowling statistics across matches. Designed for clarity and insight, the dashboard highlights both individual game contributions and cumulative tournament performances, making it ideal for performance evaluation, storytelling, and pattern recognition.
+
 🔍 Key Features:
+
 🧰 1. Runs Toolkit
 A stacked bar chart displaying each player's run contribution per match
 Helps identify top scorers, consistent performers, and match-winners
